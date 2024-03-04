@@ -1,0 +1,1 @@
+console.log("This is a message logged from an external JavaScript file.");
